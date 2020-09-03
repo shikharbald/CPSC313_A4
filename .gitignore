@@ -1,0 +1,6 @@
+fat12fs
+fat12test
+*.o
+*~
+*.swp
+*.swo
